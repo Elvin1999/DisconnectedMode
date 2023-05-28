@@ -16,5 +16,8 @@
         <Button Click="Button_Click" FontSize="30"
                 FontWeight="ExtraBlack"
                 >Show</Button>
+        <Button Click="Button_Click_1" FontSize="30"
+                FontWeight="ExtraBlack"
+                >Update</Button>
     </StackPanel>
 </Window>
